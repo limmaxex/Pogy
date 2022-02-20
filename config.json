@@ -1,13 +1,13 @@
 {
-  "main_token": "", 
+  "main_token": "process.env.token", 
   "mongodb_url": "", //mongo db URL
-  "developers": ["", ""], //developers ID
+  "developers": ["904565710909493280", "904565710909493280"], //developers ID
   "datadogApiKey": "", // for statistics (optional)
   "dashboard":"false", 
-  "prefix":"p!", //prefix
+  "prefix":"cp", //prefix
   "arc":"",//arc.io source (optional)
-  "youtube_key":"", //youtube api key from https://console.cloud.google.com/apis/
-  "cat_api_key":"",// https://thecatapi.com/signup
+  "youtube_key":"AIzaSyBU4sv7-EZZX1lDcxag75G3f3N4s0NJLWc", //youtube api key from https://console.cloud.google.com/apis/
+  "cat_api_key":"79038fcd-91fe-45c2-8d55-0234571e465b",// https://thecatapi.com/signup
   "webhook_id":"", //read down
   "webhook_url":"" //read down
 }
